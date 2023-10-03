@@ -1,0 +1,39 @@
+h2{
+	color: green;
+	font-family: serif;
+}
+.div1{
+	width: 192px;
+	background-color: #C8FC98;
+	font-weight: 700;
+	padding-left: 8px;
+}
+.header{
+			
+	height: 80px;
+	background-color: #eee;
+	font-size: 2.2em;
+	padding-left: 8px;
+		
+}
+.footer{
+			
+	height: 33px;
+	padding-top: 7px;
+	min-height: 10px;
+	background-color: black;
+	text-align: center;
+	clear: both;
+			
+			
+}
+.text1{
+	width: 200px;
+	min-width: 200px;
+	max-width: 600px;
+	height: 43.4em;
+	background-color: #C8FC98;
+	border: 0px;
+	float: left;
+	margin-bottom: 18px;
+}
