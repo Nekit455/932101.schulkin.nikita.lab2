@@ -1,0 +1,9 @@
+.content{
+	background-color: blue;
+	color: white;
+  width: 600px;
+}
+.cont{
+    display: flex;
+    justify-content: center;
+}
